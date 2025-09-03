@@ -59,8 +59,9 @@ This is my config for my current setup
 <a id="Home_Assistant_Installation_on_Proxmox"></a>
 ## Installation Process on Proxmox
 
-Link to YouTube Video
-##### Coming Soon!!
+Here is a link to my YouTube video covering all the steps if you don't like reading.
+
++ Link Coming Soon!!
 
 
 
