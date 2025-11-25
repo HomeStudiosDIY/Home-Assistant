@@ -1,3 +1,5 @@
+
+
 <a id="readme_top"></a>
 ## Home Assistant
 
@@ -33,7 +35,7 @@ The link below will take you to all the guides I have starting with how to insta
 + #### Coming Soon!!
 
 
-<!--
+
 
 
 
@@ -55,6 +57,8 @@ The link below will take you to all the guides I have starting with how to insta
 
 
 
+
+<!--
 
 
 
