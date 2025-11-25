@@ -33,6 +33,9 @@ The link below will take you to all the guides I have starting with how to insta
 + #### Coming Soon!!
 
 
+<!--
+
+
 
 
 <summary><u>Table of Contents</u></summary>
@@ -315,3 +318,9 @@ Device List Updated on the
 
 
  network update enp2s0 --ipv4-method aut0 --ipv6-method auto
+ 
+ 
+ 
+ 
+ 
+ -->
