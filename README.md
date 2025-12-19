@@ -219,6 +219,17 @@ Coming Soon!!
 Before you add anything make sure you "setting"
 
 
+
+
+
+
+https://github.com/Mincka/ha-addons/tree/main
+
+
+
+
+
+
 <p align="right"><a href="#readme_top">back to top</a></p>
 
 <a id="Home_Assistant_Installation_on_Proxmox"></a>
