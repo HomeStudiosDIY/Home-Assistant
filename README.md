@@ -1,24 +1,7 @@
 
-
-<a id="readme_top"></a>
 ## Home Assistant
 
-
-
-
-
-
-
-
-
-<!--
-
-
--->
-
-
-
-
+<a id="readme_top"></a>
 
 
 #### Overview
@@ -30,7 +13,11 @@ Open source home automation that puts local control and privacy first. Powered b
 #### Guides
 
 If you want to have a Smart Home that bring all you smart devices under one roof. Home Assistant will allow you to control and do some fun automations.  
-The link below will take you to all the guides I have starting with how to install Home Assistant on Proxmox. You will also find some more advanced integrations and Add-Ons that will help you build and automate your Smart Home.
+The links below will take you to all the guides starting with how to install Home Assistant on Proxmox. You will also find some more advanced integrations and Add-Ons that will help you build and automate your Smart Home.
+
+
+
+
 
 + #### Coming Soon!!
 
@@ -43,13 +30,25 @@ The link below will take you to all the guides I have starting with how to insta
 <summary><u>Table of Contents</u></summary>
 
 + <a href="#Home_Assistant_Installation_on_Proxmox">Installation Process on Proxmox</a>
-	+ <a href="#Home_Assistant_Installation_on_Proxmox">Key Setting after Installation</a>
+	+ <a href="#Key_Settings_after_Installation">Key Setting after Installation</a>
 
-+ <a href="#Home Assistant Key Integrations and Add-ons">Key Integrations and/or Add-ons</a>.
-	+ <a href="#Get_HACS">Get HACS</a>
+
++ <a href="#Must have Integrations and Add-ons">Must have Integrations and Add-Ons</a>
+
+	+ <a href="#Add_Ons">HACS
+	
+	
+	
 + <a href="#Integrations">Other Integrations and/or Add-ons</a>
-	+ <a href="#Get_HACS">Frigaet</a>
+
+	+ <a href="#Frigate">Frigate</a>
+	
+	
+	
+	
+	
 + <a href="#Integrations">Other Home Assistant Fun Projects</a>
+
 
 
 
@@ -58,12 +57,11 @@ The link below will take you to all the guides I have starting with how to insta
 
 
 
-<!--
 
 
 
-This will guide you to install 
-This is my config for my current setup  
+
+
 
 
 
@@ -78,8 +76,15 @@ This is my config for my current setup
 
 <p align="right"><a href="#readme_top">back to top</a></p>
 
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
-## Installation Process on Proxmox
+## Installation Process on Proxmox		<a id="Home_Assistant_Installation_on_Proxmox"></a>
+
+
+
+
+This will guide you to install 
+
+This is my config for my current setup  
+
 
 Here is a link to my YouTube video covering all the steps if you don't like reading.
 
@@ -100,18 +105,32 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 
 
 
+
+
+
+
 <p align="right"><a href="#readme_top">back to top</a></p>
 
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
-### Key Setting after Installation
+### Key Setting after Installation		<a id="Key_Settings_after_Installation"></a>
+
+
 
 Coming Soon!!
 
 
+
+
+
+
+
+
+
+
 <p align="right"><a href="#readme_top">back to top</a></p>
 
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
-## Key Integrations and/or Add-ons
+## Key Integrations and/or Add-ons		<a id="Key_Settings_after_Installation"></a>
+
+
 
 <details>
 <summary><u>Table of Contents</u></summary>
@@ -132,11 +151,14 @@ Coming Soon!!
 
 
 <a id="Home_Assistant_Installation_on_Proxmox"></a>
+
 + #### Studio Code Server
 
 	Coming Soon!!
 
+#### Overview
 
+#### Guides
 
 
 
@@ -144,25 +166,34 @@ Coming Soon!!
 <p align="right"><a href="#readme_top">back to top</a></p>
 
 <a id="Home_Assistant_Installation_on_Proxmox"></a>
+
 + #### Mosquitto broker
 
 	Coming Soon!!
 
 
+#### Overview
+
+#### Guides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="right"><a href="#readme_top">back to top</a></p>
 
-<a id="Get_HACS"></a>
-+ #### MQTT
-
-	Coming Soon!!
-
-
-<p align="right"><a href="#readme_top">back to top</a></p>
-
-<a id="Get_HACS"></a>
-+ #### Get HACS
++ #### Get HACS		<a id="Get_HACS"></a>
 
 	Coming Soon!!
 
@@ -173,37 +204,78 @@ Coming Soon!!
 
 	https://github.com/hass-agent
 
+#### Overview
+
+#### Guides
+
+
+
+
+
 
 <p align="right"><a href="#readme_top">back to top</a></p>
 
 <a id="Home_Assistant_Installation_on_Proxmox"></a>
+
 + #### Node-RED
 
 	Coming Soon!!
 
+#### Overview
+
+#### Guides
+
+
+
+
+
+
 
 <p align="right"><a href="#readme_top">back to top</a></p>
 
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
-+ #### Zigbee2MQTT
+
++ #### Zigbee2MQTT		<a id="Home_Assistant_Installation_on_Proxmox"></a>
+
+
+
 
 	Coming Soon!!
 
 	https://github.com/zigbee2mqtt/hassio-zigbee2mqtt
 
+#### Overview
+
+#### Guides
+
+
+
+
+
+
+
+
 
 <p align="right"><a href="#readme_top">back to top</a></p>
 
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
-+ #### ESPHome Device Builder
+
++ #### ESPHome Device Builder		<a id="Home_Assistant_Installation_on_Proxmox"></a>
+
+
+
 
 	Coming Soon!!
 
+#### Overview
+
+#### Guides
+
+
+
+
 
 <p align="right"><a href="#readme_top">back to top</a></p>
 
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
-+ #### Frigate
++ #### Frigate		<a id="Home_Assistant_Installation_on_Proxmox"></a>
 
 	Coming Soon!!
 
@@ -211,10 +283,138 @@ Coming Soon!!
 	https://github.com/blakeblackshear/frigate-hass-addons
 	```
 
+#### Overview
+
+#### Guides
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="right"><a href="#readme_top">back to top</a></p>
+
+
+## Other Integrations and/or Add-ons		
+
+
+<a id="Home_Assistant_Installation_on_Proxmox"></a>
+
+
+
+
+
+<details>
+<summary><u>Table of Contents</u></summary>
+
++ <a href="#Home_Assistant_Installation_on_Proxmox">Home Assistant Other Integrations</a>
+
++ <a href="#Home_Assistant_Installation_on_Proxmox">Home Assistant Other Add-Ons</a>
+
+
++ <a href="#Home_Assistant_Installation_on_Proxmox">Installation Proccess on Proxmox</a>
+	+ <a href="#Home_Assistant_Installation_on_Proxmox">Key Setting after Installation</a>
+
++ <a href="#Home Assistant Key Integrations and Add-ons">Key Integrations and/or Add-ons</a>.
+	+ <a href="#Get_HACS">Get HACS</a>
++ <a href="#Integrations">Other Integrations and/or Add-ons</a>
+	+ <a href="#Get_HACS">Frigaet</a>
++ <a href="#Integrations">Other Home Assistant Fun Projects</a>
+
+</details>
+
+
+
+fore you add anything make sure you "setting"
+
+
+
+
+
+
+
+
+
 <p align="right"><a href="#readme_top">back to top</a></p>
 
 <a id="Home_Assistant_Installation_on_Proxmox"></a>
-## Other Integrations and/or Add-ons
++ #### OPNsense
+
+	Still to come!!
+
+	https://github.com/travisghansen/hass-opnsense
+  
+  
+#### Overview
+
+#### Guides  
+  
+  
+  
+  
+
+
+  
+  
+<p align="right"><a href="#readme_top">back to top</a></p>
+
+<a id="Home_Assistant_Installation_on_Proxmox"></a>
++ #### Climate Group - bjrnptrsn/climate_group (integration)
+
+	Coming Soon!!
+
+
+
+	HACS Add this repo https://github.com/bjrnptrsn/climate_group to the HACS store and install from there.
+
+
+
+#### Overview
+
+#### Guides
+
+
+
+
+
+
+
+<p align="right"><a href="#readme_top">back to top</a></p>
+
+
++ #### Bestway (integration)    <a id="Home_Assistant_Installation_on_Proxmox"></a>
+
+
+https://github.com/cdpuk/ha-bestway
+
+
+
+	Coming Soon!!
+
+
+#### Overview
+
+
+This custom component integrates with the Bestway cloud API, providing control of devices such as Lay-Z-Spa hot tubs and Flowclear pool filters.
+
+
+
+#### Guides
+
+
+
+
+
+
+
+
 
 Before you add anything make sure you "setting"
 
@@ -222,9 +422,33 @@ Before you add anything make sure you "setting"
 
 
 
-
+FireFox Add-on
 https://github.com/Mincka/ha-addons/tree/main
 
+
+
+
+
+
+
+
+
+
+
+
+<p align="right"><a href="#readme_top">back to top</a></p>
+
+<a id="Home_Assistant_Installation_on_Proxmox"></a>
++ #### Speedtest That works
+
+	Coming Soon!!
+
+	https://github.com/MrSuicideParrot/hassio-speedtest-addon
+
+
+#### Overview
+
+#### Guides
 
 
 
@@ -240,52 +464,35 @@ https://github.com/Mincka/ha-addons/tree/main
 	https://github.com/dougiteixeira/proxmoxve
 
 
-<p align="right"><a href="#readme_top">back to top</a></p>
 
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
-+ #### OPNsense
 
-	Still to come!!
 
-	https://github.com/travisghansen/hass-opnsense
-  
-  
-<p align="right"><a href="#readme_top">back to top</a></p>
 
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
-+ #### Climate Group - bjrnptrsn/climate_group (integration)
 
-	Coming Soon!!
 
-	HACS Add this repo https://github.com/bjrnptrsn/climate_group to the HACS store and install from there.
 
-	HACS Add this repo https://github.com/bjrnptrsn/climate_group to the HACS store and install from there.
+
+
+
 
 
 <p align="right"><a href="#readme_top">back to top</a></p>
 
 <a id="Home_Assistant_Installation_on_Proxmox"></a>
-+ #### cdpuk/ha-bestway (integration)
 
-	Coming Soon!!
-
-
-<p align="right"><a href="#readme_top">back to top</a></p>
-
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
-+ #### Speedtest That works
-
-	Coming Soon!!
-
-	https://github.com/MrSuicideParrot/hassio-speedtest-addon
-
-
-<p align="right"><a href="#readme_top">back to top</a></p>
-
-<a id="Home_Assistant_Installation_on_Proxmox"></a>
 ## Other Home Assistant Fun Projects
 
 Coming Soon!!
+
+
+#### Overview
+
+#### Guides
+
+
+
+
+
 
 
 
@@ -303,6 +510,11 @@ Sonoff ZBBridge Smart Home Wireless Switch Motion Sensor Remote Controller
 
 
 
+
+
+
+
+
 + ### HIDDEN INSTAL Robot Vacuum Automatic Door System
 
 
@@ -316,8 +528,12 @@ sourcing map 24V 5A Power Supply Adapter Transformer Switch, AC 110V-220V to DC 
 100N 90mm per second, 100mm stroke
 
 
-Smart Wifi Relay Switch 2 Channel Relay Smart Home Wifi Module DC 5V 12V 24V 32V 110V 220V Wireless Switch Timer Remote Control
+Smart Wifi Relay Switch 2 Channel Relay Smart Home WiFi Module DC 5V 12V 24V 32V 110V 220V Wireless Switch Timer Remote Control
 DC 7-32V
+
+
+
+
 
 
 
@@ -332,10 +548,8 @@ Device List Updated on the
 
 
 
- network update enp2s0 --ipv4-method aut0 --ipv6-method auto
+
+
+network update enp2s0 --ipv4-method aut0 --ipv6-method auto
  
  
- 
- 
- 
- -->
